@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/azurewebapp.csproj.user
+/.vs/AshishWebsite/v17
+/.vs/azurewebapp/FileContentIndex
+/.vs/ProjectSettings.json
+/obj/Debug/net9.0/staticwebassets.removed.txt
