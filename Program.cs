@@ -20,6 +20,7 @@ app.UseDefaultFiles();
 app.UseAuthorization();
 app.UseStaticFiles();
 app.MapStaticAssets();
+app.UseStatusCodePagesWithReExecute("/404");
 app.MapRazorPages()
    .WithStaticAssets();
 
