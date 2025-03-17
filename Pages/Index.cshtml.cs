@@ -14,6 +14,6 @@ public class IndexModel : PageModel
 
     public void OnGet()
     {
-
+        Response.Redirect("https://www.cnsdev.ca");
     }
 }
